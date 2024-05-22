@@ -31,7 +31,7 @@ The feedback is categorized into the following groups:
 
 ### Data Loading
 
-The input data is loaded from a KNIME table and converted to a pandas DataFrame. Only rows with non-null feedback are processed.
+The input data is loaded from a table and converted to a pandas DataFrame. Only rows with non-null feedback are processed.
 
 ### Preprocessing
 
