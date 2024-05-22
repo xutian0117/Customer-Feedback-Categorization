@@ -64,4 +64,4 @@ To run the categorization process, simply load your feedback data into the KNIME
 
 Make sure to install the necessary Python packages using:
 ```bash
-pip install knime-scripting-io autocorrect nltk pandas numpy
+pip install autocorrect nltk pandas numpy
